@@ -5,7 +5,6 @@ from PIL import Image
 from deepface.commons import functions
 from deepface.basemodels import Facenet
 import cv2
-import time
 
 
 class FaceApi:
